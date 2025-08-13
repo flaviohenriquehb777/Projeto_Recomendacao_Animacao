@@ -18,16 +18,18 @@ O modelo utiliza a técnica de *embedding* para representar usuários e produtos
 
 ### ⚙️ Estrutura do Repositório
 
-```bash
-Projeto_Recomendacao_Animacao/
-├── media/
-│   └── recomendacao_animacao_impactante.gif
-├── notebooks/
-│   └── recomendacao_animacao.ipynb
-├── .gitignore
-├── LICENSE.md
-├── README.md
-└── requirements.txt
+Certifique-se de que a estrutura de pastas do projeto esteja correta:
+    ```
+    seu_projeto/
+    ├── notebooks/
+    │   └── recomendacao_animacao_im.ipynb
+    ├── media/
+    │   └── recomendacao_animacao_impactante.gif 
+    ├── .gitignore.md
+    ├── LICENSE.md
+    ├── README.md
+    ├── requirements.txt
+    ```
 
 ## 🚀 Como Executar
 
