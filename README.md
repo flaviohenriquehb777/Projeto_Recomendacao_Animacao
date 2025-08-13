@@ -20,15 +20,15 @@ O modelo utiliza a técnica de *embedding* para representar usuários e produtos
 
 Certifique-se de que a estrutura de pastas do projeto esteja correta:
 ```
-seu_projeto/
-├── notebooks/
-│   └── recomendacao_animacao.ipynb
-├── media/
-│   └── recomendacao_animacao_impactante.gif 
-├── .gitignore.md
-├── LICENSE.md
-├── README.md
-├── requirements.txt
+Projeto_Recomendacao_Animacao/
+    ├── media/
+    │   └── recomendacao_animacao_impactante.gif
+    ├── notebooks/
+    │   └── recomendacao_animacao.ipynb
+    ├── .gitignore
+    ├── LICENSE.md
+    ├── README.md
+    └── requirements.txt
 ```
 
 ## 🚀 Como Executar
