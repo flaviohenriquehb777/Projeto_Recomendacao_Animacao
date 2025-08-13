@@ -22,7 +22,7 @@ Certifique-se de que a estrutura de pastas do projeto esteja correta:
 ```
 seu_projeto/
 ├── notebooks/
-│   └── recomendacao_animacao_im.ipynb
+│   └── recomendacao_animacao.ipynb
 ├── media/
 │   └── recomendacao_animacao_impactante.gif 
 ├── .gitignore.md
